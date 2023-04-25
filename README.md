@@ -1,2 +1,2 @@
 # Data-Science-with-Python
-## This is the final assignment of Data Science
+### The final assignment and the notes of Data Science Specialization.
